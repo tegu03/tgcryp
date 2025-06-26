@@ -1,1 +1,83 @@
+[
+  {
+    "filename": "chart_1.png",
+    "type": "long",
+    "entry": 85798,
+    "sl": 82425,
+    "tp": 96756,
+    "note": "Breakout Resistance + bullish falling Wedge + Divergence RSI"
+  },
+  {
+    "filename": "chart_2.png",
+    "type": "long",
+    "entry": 69585,
+    "sl": 69739,
+    "tp": 102484,
+    "note": "Bullish Flags + Break Resistance"
+  },
+  {
+    "filename": "chart_3.png",
+    "type": "short",
+    "entry": 24645,
+    "sl": 23533,
+    "tp": 30039,
+    "note": "Head & Shoulder + Break Resistance"
+    },
+  {
+    "filename": "chart_4.png",
+    "type": "long",
+    "entry": 18000,
+    "sl": 18400,
+    "tp": 15900,
+    "note": "Descending Triangle + Break Support"
+    },
+  {
+    "filename": "chart_5.png",
+    "type": "Short",
+    "entry": 28300,
+    "sl": 28600,
+    "tp": 22000,
+    "note": "Bearish Rectangle + Break Support"
+  },
+  {
+    "filename": "chart_6.png",
+    "type": "Sort",
+    "entry": 37793,
+    "sl": 40805,
+    "tp": 18705,
+    "note": "Bearish Flag + Break Support"
+  },
+  {
+    "filename": "chart_7.png",
+    "type": "Short",
+    "entry": 36500,
+    "sl": 40000,
+    "tp": 26000,
+    "note": "Beaarish Simmetrical Triangle + Break Support"
+  },
+  {
+    "filename": "chart_8.png",
+    "type": "long",
+    "entry": 42274,
+    "sl": 39522,
+    "tp": 51428,
+    "note": "Cup & Handle + Break Resistance"
+  },
+  {
+    "filename": "chart_9.png",
+    "type": "Short",
+    "entry": 11337,
+    "sl": 11530,
+    "tp": 9941,
+    "note": "Rising Wedge + Break Suport"
+  },
+  {
+    "filename": "chart_10.png",
+    "type": "long",
+    "entry": 9293,
+    "sl": 9087,
+    "tp": 11060,
+    "note": "Bullish Simmetrical Triangle + Break Resistance"
+  }
+]
 
